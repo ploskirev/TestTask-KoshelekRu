@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["404"],{7746:function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"err"},[e._v(" Sorry. Page does not exist. ¯\\_(ツ)_/¯ ")])},s=[],c=(n("92df"),n("2877")),r={},i=Object(c["a"])(r,a,s,!1,null,"3eec8c80",null);t["default"]=i.exports},"92df":function(e,t,n){"use strict";var a=n("aaed"),s=n.n(a);s.a},aaed:function(e,t,n){}}]);
-//# sourceMappingURL=404.26b523b2.js.map

@@ -8,8 +8,9 @@ import amountFilter from './filters/amountFilter.js';
 import priceFilter from './filters/priceFilter.js';
 import totalFilter from './filters/totalFilter.js';
 import '../public/reset.css';
-import 'bootstrap/dist/css/bootstrap.css';
-import 'bootstrap-vue/dist/bootstrap-vue.css';
+import '../public/bootstrap.scss';
+// import 'bootstrap/dist/css/bootstrap.css';
+// import 'bootstrap-vue/dist/bootstrap-vue.css';
 
 Vue.config.productionTip = false;
 
