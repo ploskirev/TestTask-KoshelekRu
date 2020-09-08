@@ -10,3 +10,4 @@
     local_dir: dist
     on:
       branch: master
+
